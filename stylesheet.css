@@ -1,5 +1,7 @@
 body{
-	background: Grey;
+	background-color: #40E0D0;
+	margin: auto;
+	padding: auto;
 table {
 	margin-left: 20px;
 }
@@ -10,7 +12,7 @@ ion-icon {
 }
 
 .ab {
-	color: gray;
+	color: #40E0D0;
 	font-style: italic;
 }
 
